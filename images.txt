@@ -1,1 +1,1 @@
---platform=linux/arm64 zengxs/gitlab
+--platform=linux/arm64 zengxs/gitlab:16.8.0
