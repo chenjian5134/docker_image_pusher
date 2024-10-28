@@ -1,1 +1,1 @@
-alpinelinux/gitlab:16.8
+gitlab/gitlab-ce:16.8.10-ce.0
